@@ -22,7 +22,7 @@ This project implements a streamlined AlphaPy AutoML solution that:
 **Sumanta Swain**
 - 🔗 GitHub: [@Sumanta01](https://github.com/Sumanta01)
 - 📧 Email: [Contact via GitHub](https://github.com/Sumanta01)
-- 💼 Role: Data Scientist & ML Engineer
+- 💼 Role: Coder
 - 🎯 Specialization: AutoML, Predictive Analytics, Python Development
 
 *Passionate about building efficient, production-ready machine learning solutions with clean code architecture.*
