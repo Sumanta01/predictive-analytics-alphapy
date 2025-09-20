@@ -11,7 +11,8 @@ Key Features:
 - Feature importance analysis
 - Performance metrics and comprehensive reporting
 
-Author: Predictive Analytics Team
+Author: Sumanta Swain
+GitHub: https://github.com/Sumanta01
 """
 
 import os
