@@ -17,7 +17,17 @@ This project implements a streamlined AlphaPy AutoML solution that:
 - **Top Feature**: `sqft_living` (72.8% importance)
 - **Optimized Code**: Clean 248-line implementation
 
-## 🚀 Features
+## �‍💻 Author
+
+**Sumanta Swain**
+- 🔗 GitHub: [@Sumanta01](https://github.com/Sumanta01)
+- 📧 Email: [Contact via GitHub](https://github.com/Sumanta01)
+- 💼 Role: Data Scientist & ML Engineer
+- 🎯 Specialization: AutoML, Predictive Analytics, Python Development
+
+*Passionate about building efficient, production-ready machine learning solutions with clean code architecture.*
+
+## �🚀 Features
 
 - **AlphaPy AutoML**: Professional AutoML framework integration
 - **Multi-Algorithm Testing**: Random Forest, Gradient Boosting, Linear Regression
@@ -233,10 +243,22 @@ For questions or issues:
 ## 🎉 Acknowledgments
 
 - **AlphaPy Team** for the excellent AutoML framework
-- **Scikit-learn** for the foundational machine learning library
+- **Scikit-learn** for the foundational machine learning library  
 - **Pandas & NumPy** for data manipulation capabilities
 - **Python Community** for the amazing ecosystem
 
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
 ---
 
-**Built with ❤️ using AlphaPy AutoML for optimized house price prediction**
+### 💡 About This Project
+
+This optimized AlphaPy implementation demonstrates:
+- **Clean Code Architecture**: Production-ready, maintainable codebase
+- **AutoML Excellence**: Leveraging AlphaPy's powerful automation
+- **Performance Optimization**: 92.6% accuracy with minimal dependencies
+- **Best Practices**: Following industry standards for ML project structure
+
+**Developed by Sumanta Swain - Building efficient ML solutions with clean architecture** ✨
